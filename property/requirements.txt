@@ -1,2 +1,4 @@
 scrapy==1.0
+django==1.8
+django-haystack
 pyelasticsearch==1.4.0
